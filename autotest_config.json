@@ -37,7 +37,7 @@
           "create-slidev-theme-52.12.0.tgz",
           "vue-3.5.32.tgz",
           "create-slidev-52.12.0.tgz",
-          "@slidev/cli-52.14.1.tgz",
+          "@slidev/cli-52.14.2.tgz",
           "@slidev/parser-52.12.0.tgz",
           "slidev-demo-0.0.0.tgz",
           "@slidev/theme-seriph-0.25.0.tgz",
@@ -45,7 +45,7 @@
           "slidev-52.12.0.tgz",
           "@slidev/theme-default-0.25.0.tgz",
           "@slidev/client-52.12.0.tgz",
-          "@slidev/types-52.14.1.tgz"
+          "@slidev/types-52.14.2.tgz"
         ]
       },
       "validate_agent_versions": false,
