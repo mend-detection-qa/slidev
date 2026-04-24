@@ -35,7 +35,7 @@
       "direct_dependencies_names_list": {
         "contains": [
           "create-slidev-theme-52.12.0.tgz",
-          "vue-3.5.32.tgz",
+          "vue-3.5.33.tgz",
           "create-slidev-52.12.0.tgz",
           "@slidev/parser-52.12.0.tgz",
           "slidev-demo-0.0.0.tgz",
