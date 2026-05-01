@@ -43,7 +43,7 @@
           "@slidev/docs-52.12.0.tgz",
           "slidev-52.12.0.tgz",
           "@slidev/theme-default-0.25.0.tgz",
-          "@slidev/types-52.14.2.tgz"
+          "@slidev/types-52.15.0.tgz"
         ]
       },
       "validate_agent_versions": false,
